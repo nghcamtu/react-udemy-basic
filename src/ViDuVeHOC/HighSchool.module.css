@@ -1,0 +1,18 @@
+.HighSchool {
+    background-color: peru;
+    
+}
+/* .HighSchool .wrapper{
+    width: 70%;
+    margin: 16px auto;
+    border: 1px solid #eee;
+    padding: 16px;
+    font-style: italic;
+} */
+.button{
+    background-color: yellowgreen;
+    color: black;
+}
+
+/* CÁCH CSS DÙNG MODULE NÀY CHỈ ÁP DỤNG CHO REACT JS DÙNG REACT SCRIPT VERSION 2.0 TRỞ LÊN */
+/* đang xài 1.0.0 nên là ko xài được */

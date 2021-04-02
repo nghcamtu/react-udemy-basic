@@ -1,0 +1,11 @@
+ĐỀ BÀI
+1. Tạo 2 component: UserInput và UserOutput
+2. UserInput nên chứa 1 input element, UserOutput chứa 2 paragraph
+3. Hiển thị nhiều lần UserOutput component trong App component (ở đây thay bằng Assignment component)
+4. Truyền 1 username tùy ý vào UserOutput thông qua props và hiển thị nó ở đó
+5. Thêm state vào Assignment component (=> the username) và truyền (pass) username qua UserOutput component
+6. Thêm 1 method để thực thi state (=>an event handler method)
+7. Truyền event handler method tham chiếu qua (reference) UserInput component và bind nó vào input change event
+8. Bảo đảm rằng input mới nhập vào bởi người dùng sẽ ghi đè username cũ đã truyền vào UserOutput
+9. Thêm two ways binding (bind 2 chiều) vào input (ở UserInput) để hiển thị username ngay từ lúc bắt đầu load trang, (thay cho empty input)
+10. Định kiểu (add styling) tùy ý thích vào components/element  (bằng cách dùng inline và stylesheet)

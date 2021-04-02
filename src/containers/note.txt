@@ -1,0 +1,3 @@
+1. chứa các App.css, App.js, App.test.js
+nhưng mà ở project này hiện chưa có bỏ vô, mới ghi thôi
+2. Các file index là những file duy nhất nằm bên ngoài, không thuộc folder nào
